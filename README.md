@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on improving my skills in full-stack development and building real-world projects.<br>🤝 I’m looking to collaborate on web, mobile, and open-source ideas that solve everyday problems.<br>🌱 I’m currently learning modern JavaScript frameworks. <br>💬 ⚡ Fun fact: I love mixing creativity with code to build things that make life easier.
+💻 I’m currently working on improving my skills in full-stack development and building real-world projects.<br>🤝 I’m looking to collaborate on web, mobile, and open-source ideas that solve everyday problems.<br>🌱 I’m currently learning modern JavaScript frameworks. <br>⚡ Fun fact: I love mixing creativity with code to build things that make life easier.
 
 
 ## 🌐 Socials:
