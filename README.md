@@ -1,28 +1,21 @@
-# 💫 About Me
+# 💫 About Me:
+I am a multidisciplinary technology professional with experience in animation, broadcast operations, and software engineering.<br><br>I work as a broadcast technician at Goodrich TV, ensuring reliable media production and transmission. I also serve as the Chief Operating Officer of ICE Tech Rwanda, where we design and deliver modern digital solutions.<br><br>As a full-stack developer specializing in the MERN stack, I enjoy transforming complex problems into scalable, user-focused applications. I value integrity, continuous learning, and impact.
 
-I’m a multidisciplinary developer and creative technologist focused on building real-world digital solutions.  
-I combine **full-stack engineering** with **graphic design, 3D modeling, animation, and broadcast technology** to deliver products that are both functional and visually powerful.
 
-🌱 Currently growing in modern JavaScript ecosystems and scalable architectures.  
-🤝 Open to collaborating on impactful web, mobile, media, and open-source projects.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_es_ti) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mugishafrankgoodrich) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@i_es_ti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mfrankgoodrich) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@frank-goodrich) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfrankgoodrich@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=frank-goodrich&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=frank-goodrich&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-goodrich&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_es_ti)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mfrankgoodrich)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@frank-goodrich)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=frank-goodrich&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 💻 Core Technologies
-**Frontend & Mobile:** JavaScript, React, Next.js, Flutter, MUI  
-**Backend & Databases:** Node/Express, Laravel, Django, MySQL, MongoDB, MariaDB  
-**Cloud & Dev:** AWS, Apache  
-**Languages:** Python, PHP, Java, C++, Solidity
-
----
-
-## 🎨 Creative & Media Tools
-Adobe After Effects • Premiere Pro • Photoshop • Illustrator • Audition • XD  
-3D Modeling • Motion Graphics • Video Production • Broadcast Systems
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
